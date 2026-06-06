@@ -1,3 +1,8 @@
-# CS-Labs
+# C++ LABS
 **Functions Pass by Reference**
-  - C++ Lab: Paint a room
+  - Paint a room
+
+**Char Arrays**
+  - Remove spaces
+  - Print string in reverse
+
