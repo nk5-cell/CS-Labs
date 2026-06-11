@@ -3,7 +3,7 @@
   - Paint a room [PaintARoom.cpp]
 
 **Char Arrays**
-  - Remove spaces
+  - Remove spaces [RemoveSpaces.cpp]
   - Print string in reverse
 
 **Arrays**
