@@ -16,11 +16,10 @@
 
 **File Input/Output**
   - All-consuming (File Input) [consumptionEstimation.cpp, consuming.txt]
-  - Cereal Analysis
 
 **Structs**
   - Song data [songData.cpp]
-  - Array of songs [arrayOfSongs.cpp]
+  - Array of songs [arrayOfSongs.cpp, songs.txt]
   - Car Value [carValue.h, carValue.cpp, carValueMain.cpp]
 
 
