@@ -8,7 +8,7 @@
 
 **Arrays**
   - Even/odd values in an array [EvenOddValuesArray.cpp]
-  - Adjust array by normalizing - functions
+  - Adjust array by normalizing - functions [adjustArray.cpp]
   - Insert Values into an array
   - Remove Values from an array
   - Output numbers in reverse
