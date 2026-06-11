@@ -1,3 +1,8 @@
+// LAB: Car Value
+/*=====================================================================================
+File descrition: This file implements the functions from carValue.h that has Car Struct
+=====================================================================================*/
+
 #include <iostream>
 #include <iomanip>
 #include <cmath>
