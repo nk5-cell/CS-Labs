@@ -12,7 +12,7 @@
   - Insert Values into an array [arrayInsertion.cpp]
   - Remove Values from an array
   - Output numbers in reverse
-  - Output values below an amount
+  - Output values below an amount [arrayOutputBelowThreshold.cpp]
 
 **File Input/Output**
   - All-consuming (File Input)
