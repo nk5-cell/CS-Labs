@@ -7,7 +7,7 @@
   - Print string in reverse
 
 **Arrays**
-  - Even/odd values in an array
+  - Even/odd values in an array [EvenOddValuesArray.cpp]
   - Adjust array by normalizing - functions
   - Insert Values into an array
   - Remove Values from an array
