@@ -4,7 +4,7 @@
 
 **Char Arrays**
   - Remove spaces [RemoveSpaces.cpp]
-  - Print string in reverse
+  - Print string in reverse [reverseString.cpp]
 
 **Arrays**
   - Even/odd values in an array [EvenOddValuesArray.cpp]
