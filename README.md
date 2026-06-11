@@ -1,6 +1,6 @@
 # C++ LABS
 **Functions Pass by Reference**
-  - Paint a room
+  - Paint a room [PaintARoom.cpp]
 
 **Char Arrays**
   - Remove spaces
