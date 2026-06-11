@@ -11,7 +11,7 @@
   - Adjust array by normalizing - functions [adjustArray.cpp]
   - Insert Values into an array [arrayInsertion.cpp]
   - Remove Values from an array [arrayRemoval.cpp]
-  - Output numbers in reverse
+  - Output numbers in reverse [reverseValArray.cpp]
   - Output values below an amount [arrayOutputBelowThreshold.cpp]
 
 **File Input/Output**
