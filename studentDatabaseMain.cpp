@@ -11,7 +11,7 @@ File descrition: This is a program that uses a struct named Student to store inf
 #include <cstring>
 #include <fstream>
 
-#include "Student.h"
+#include "studentDatabaseStudent.h"
 using namespace std;
 
 int main() {
@@ -20,7 +20,7 @@ int main() {
    int numStudents = 0;
    ifstream inFile;
    
-   inFile.open("students.txt");
+   inFile.open("studentDatabaseStudents.txt");
 
    if (inFile.fail()) {
       cout << "File failed to open!" << endl;
